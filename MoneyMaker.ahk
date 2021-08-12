@@ -7,9 +7,9 @@ Loop {
     if (enabled = true) {
         MouseMove, 959, 383
         Send {LButton down}
-        Sleep, 475
+        Sleep, 500
         Send {LButton up}
-        Sleep, 100
+        Sleep, 110
     }
 }
 
